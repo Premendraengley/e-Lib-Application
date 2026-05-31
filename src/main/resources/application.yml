@@ -1,0 +1,9 @@
+spring:
+  profile:
+    active:dev
+
+logging:
+  level:
+    net:
+      e-notes:
+        ENotesApplication: ERROR
